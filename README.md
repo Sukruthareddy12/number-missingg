@@ -19,4 +19,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - Make sure you have a C++ compiler installed on your machine.
-- 
+- https://github.com/Sukruthareddy12/number-missingg/assets/153543378/73f66dba-3330-4684-bb91-fffb008a4fdf
+
+
